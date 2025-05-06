@@ -1,4 +1,0 @@
-*.log           # Ignore all .log files
-.env            # Ignore environment files
-node_modules/   # Ignore Node.js packages
-*.tmp           # Ignore temporary files
